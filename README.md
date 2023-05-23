@@ -1,5 +1,4 @@
-# Creacion de una una tienda Online en React con Vite para realizar compras,asi mismo se agrega productos a nuestro carro de compras, consumiendo una API de productos.
-
+# Creacion de una una tienda Online en React con Vite.
 
 ¡Hola, !
 
