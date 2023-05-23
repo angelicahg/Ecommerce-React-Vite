@@ -8,7 +8,7 @@ import MyOrders from '../MyOrders'
 import NotFound from '../NotFound'
 import SignIn from '../SignIn'
 import Navbar from '../../components/Navbar'
-import CheckoutSideMenu from '../../Components/CheckoutSideMenu'
+import CheckoutSideMenu from '../../components/CheckoutSideMenu'
 import './App.css'
 
 const AppRoutes = () => {
